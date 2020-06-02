@@ -2,3 +2,6 @@
 	url = https://github.com/espressif/arduino-esp32.git
 	branch = esp32s2
 	path = adafruit_ili9341/components/arduino
+[submodule "tinyusb/components/EspTinyUSB/tinyusb"]
+	path = tinyusb/components/EspTinyUSB/tinyusb
+	url = https://github.com/hathach/tinyusb.git
